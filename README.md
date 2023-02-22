@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Joaquirudd
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React JS
